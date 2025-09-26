@@ -13,9 +13,9 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React, Vue, JavaScript, HTML, CSS  
-**Backend:** Node.js, Spring Boot, Python  
-**Blockchain:** Solana, Web3  
+**Frontend:** React, Vue, WebComponets & Module, Failwind CSS, Storybook  
+**Backend:** Node.js, Spring Boot, Python, Rust, Microservices  
+**Blockchain:** Solana, Web3, Etherium, Tuffle  
 **Tools:** Git, Docker, CI/CD, Cloud (AWS/GCP)  
 
 ---
